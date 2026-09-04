@@ -293,7 +293,7 @@ Business Insights
 
 A walkthrough of the interactive Power BI dashboard is available on YouTube.
 
-**[Watch the Dashboard Demo](YOUR_YOUTUBE_LINK)**
+**[Watch the Dashboard Demo](https://youtu.be/GDPwByksQpA?si=Ncrk2i_UQ5vzBHkM)**
 
 The video demonstrates:
 
@@ -357,5 +357,3 @@ This project is part of my ongoing portfolio development, with a focus on explor
 ## Project Status
 
 **Completed**
-
-**Last Updated:** September 2026
